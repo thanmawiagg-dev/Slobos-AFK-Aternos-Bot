@@ -8,7 +8,7 @@
   "server": {
     "ip": "Raxodegg.aternos.me",
     "port": 42262,
-    "version": "",
+    "version": "1.21.8",
     "try-creative": false
   },
   "position": {
